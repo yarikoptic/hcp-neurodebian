@@ -1,0 +1,6 @@
+Just a little excercise to erect a HCP-500/900 docker environment 
+
+It uses few customizations specific to my "development" setup. To disable --
+just comment out/remove lines  in Dockerfile as instructed by # CUSTOM comments
+
+- assumes having apt-cacher-ng and squid running
